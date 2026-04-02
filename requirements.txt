@@ -13,3 +13,4 @@ twilio==9.3.7
 openai==1.54.4
 python-multipart==0.0.12
 psycopg2-binary==2.9.10
+gunicorn==22.0.0
